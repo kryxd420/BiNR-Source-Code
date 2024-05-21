@@ -1,7 +1,7 @@
 # BiNR-Source-Code
 Source code of a fixed version of "Bendy in The Nightmare Run"
 
-This source code correspond to the version 1.4.3676 fixed by TheMaidS2, i just decompiled it.
+This source code corresponds to the version 1.4.3676 fixed by TheMaidS2, i just decompiled it.
 im working on a modded version of the APK to have infinity shit and stuff because fuck grindind.
 
 This game was originally published on 2017 but discontinued on 2021 due to Karman interactive demanding Joey Drew Studios (AKA Kindly Beast AKA TheMeatly games).
