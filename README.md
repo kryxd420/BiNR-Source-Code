@@ -12,7 +12,7 @@ Download the fixed version:
 
 Drive : https://drive.google.com/file/d/1-CFADh6fvdZ8K-Zj9dAf4cWpMI1nqoNe/view?usp=drivesdk
 
-Anonmyfile : https://anonymfile.com/7La7A/binr-works.zip
+Anonymfile : https://anonymfile.com/7La7A/binr-works.zip
 
 Tutorial video : https://www.youtube.com/watch?v=SQQRJ6-xpU0
 
